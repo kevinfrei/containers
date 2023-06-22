@@ -1886,7 +1886,7 @@ __metadata:
   dependencies:
     "@freik/build-tools": ^3.6.0
     "@freik/helpers": ^0.3.0
-    "@freik/typechk": ^0.2.0
+    "@freik/typechk": ^0.5.0
     "@jest/types": ^29.5.0
     "@types/jest": ^29.5.2
     "@typescript-eslint/eslint-plugin": ^5.60.0
@@ -1919,6 +1919,13 @@ __metadata:
   version: 0.2.0
   resolution: "@freik/typechk@npm:0.2.0"
   checksum: f7239221e7a7c005784d49fe274343e34048f5d84122322adacb4ac42bedc4c096474df65e52a8f99cfab9c046d0831e658681c3ff56317e44a413fa60423adf
+  languageName: node
+  linkType: hard
+
+"@freik/typechk@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "@freik/typechk@npm:0.5.0"
+  checksum: 4b60f9fb622212df2c17cbc29bfcb367ec5bac5a59b28adcb452ca15d3bb37b8aa9966ef9af14ba4bca4b67fe625322a8d3d3b51a88873023def69529ae93730
   languageName: node
   linkType: hard
 
